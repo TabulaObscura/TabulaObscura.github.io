@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Plasma (fusion), space, and AI researcher.
 
 profile:
   align: right
@@ -23,4 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-<!-- Bio placeholder. Replace with a paragraph or two about yourself. -->
+I'm a researcher working across plasma (fusion) physics, space science, and artificial intelligence. My work centers on applying complexity science and quantum mechanics to the simulation of tokamaks — the magnetic-confinement devices at the heart of the effort to make fusion energy practical.
+
+I'm especially interested in where these fields meet: treating a tokamak's plasma as a complex, emergent system, and bringing tools from quantum mechanics and AI to bear on modeling and predicting its behavior. The goal is simulation that's faithful enough to accelerate the path to viable fusion energy.
