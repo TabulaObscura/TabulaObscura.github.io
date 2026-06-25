@@ -6,7 +6,7 @@ isbn: 9780345410030 # used to fetch the cover if no `cover` is provided
 categories: psychology transactional-analysis non-fiction
 released: 1964
 genre: non-fiction
-status: queued
+status: reading
 ---
 
-On the reading list.
+Currently reading.
