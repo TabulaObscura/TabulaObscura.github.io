@@ -18,19 +18,6 @@ cv:
   sections:
     Projects: []
 
-    Skills:
-      - name: Machine Learning
-
-      - name: Computational Physics
-
-      - name: Neurotechnology
-
-      - name: Bioengineering
-
-      - name: Materials & Hardware
-
-      - name: Software & Tooling
-
     Awards: []
 
     Publications & Patents:
@@ -42,10 +29,3 @@ cv:
       - title: Issued patents in autonomous control and sensor fusion
         authors:
           - Grace L. Scott
-
-    Interests:
-      - name: AI safety & interpretability
-      - name: Computational physics
-      - name: Neurotechnology & brain–computer interfaces
-      - name: Scientific computing & HPC
-      - name: Robotics & embedded systems
